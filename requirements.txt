@@ -1,0 +1,15 @@
+pandas
+retry
+openai==0.27.1
+langchain==0.0.106
+# ==0.4.4
+gpt-index==0.4.24
+promptlayer
+gradio==3.20.1
+pytest
+python-dotenv==1.0.0
+google-search-results
+PyYAML
+gcsfs
+pyminizip
+black

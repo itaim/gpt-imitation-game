@@ -18,6 +18,7 @@ App has moved here: https://radiant-harbor-25851.herokuapp.com/
 
 human mimicking conversational agent playground.
 
+https://huggingface.co/spaces/itaim/gpt-imitation-game
 
 - AI by OpenAI ChatGPT-3.5
 - 🦜️🔗 LangChain - building applications with LLMs through composability

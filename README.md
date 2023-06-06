@@ -10,9 +10,7 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
-App has moved here: https://radiant-harbor-25851.herokuapp.com/
+https://huggingface.co/spaces/itaim/gpt-imitation-game
 
 ## 🤔 What is this?
 
